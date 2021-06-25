@@ -1,0 +1,21 @@
+# Table of contents
+
+* [1. 简介](README.md)
+* [2. 审核制度](2.-shen-he-zhi-du.md)
+* [3. 工作流程](3.-gong-zuo-liu-cheng/README.md)
+  * [3.1 路灯](3.-gong-zuo-liu-cheng/3.1-lu-deng.md)
+  * [3.2 剪辑](3.-gong-zuo-liu-cheng/3.2-jian-ji.md)
+  * [3.3 时间轴](3.-gong-zuo-liu-cheng/3.3-shi-jian-zhou.md)
+  * [3.4 美工](3.-gong-zuo-liu-cheng/3.4-mei-gong.md)
+  * [3.5 压制](3.-gong-zuo-liu-cheng/3.5-ya-zhi.md)
+  * [3.6 审核](3.-gong-zuo-liu-cheng/3.6-shen-he.md)
+* [4.工具](untitled/README.md)
+  * [4.1 预处理工具](untitled/4.1-yu-chu-li-gong-ju.md)
+  * [4.2 压制工具](untitled/4.2-ya-zhi-gong-ju.md)
+* [5. 相关知识](5.-xiang-guan-zhi-shi/README.md)
+  * [5.1 视频压制](5.-xiang-guan-zhi-shi/5.1-shi-pin-ya-zhi.md)
+  * [5.2 音频相关](5.-xiang-guan-zhi-shi/5.2-yin-pin-xiang-guan.md)
+* [6. 新手入门](6.-xin-shou-ru-men/README.md)
+  * [6.1 剪辑入门](6.-xin-shou-ru-men/6.1-jian-ji-ru-men.md)
+  * [6.2 打轴入门](6.-xin-shou-ru-men/6.2-da-zhou-ru-men.md)
+
